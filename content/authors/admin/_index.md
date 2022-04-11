@@ -18,8 +18,9 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-- Energy & Environmental Economics
-- Green finance
+- Energy Economics
+- Environmental Economics
+- Green Finance
 - Chinese Economic Issue
 
 # Education to show in About widget
