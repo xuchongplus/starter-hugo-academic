@@ -1,17 +1,17 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: 徐冲冲(Chongchong Xu)
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Phd. Candidate of Energy Economics and Management
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: China Institute for Studies in Energy Policy, Xiamen University
+  url: https://cicep.xmu.edu.cn//
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
