@@ -1,7 +1,6 @@
 ---
 # Display name
-title: 徐冲冲
-Chongchong Xu
+title: 徐冲冲       Chongchong Xu
 
 # Is this the primary user of the site?
 superuser: true
