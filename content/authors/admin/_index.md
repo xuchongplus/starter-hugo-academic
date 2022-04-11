@@ -14,7 +14,7 @@ organizations:
   url: https://cicep.xmu.edu.cn//
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 徐冲冲(Chongchong Xu) is a Ph.D. candidate (Major in Technical Economics and Management) from Xiamen University in China. In 2019, He got a bachelor’s degree from Harbin Engineering University and gain the qualification of postgraduate recommendation. In 2022, he receives his master's degree in management from Xiamen University and begins his doctoral studies in the same year. Now, he concentrates on the energy & environmental economics area. Welcome to any scholar questions and communication, and thanks for any job recommendations.
 
 # Interests to show in About widget
 interests:
@@ -44,18 +44,13 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.com/citations?user=17jDY_AAAAAJ&hl=zh-CN
 - icon: github
   icon_pack: fab
   link: https://github.com/xuchongplus
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
+
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
