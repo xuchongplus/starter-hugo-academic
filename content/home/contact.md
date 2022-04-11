@@ -35,8 +35,8 @@ content:
     country: China
     country_code: CN
   coordinates:
-    latitude: '24.445726'
-    longitude: '118.106603'
+    latitude: '118.106603'
+    longitude: '24.445726'
   directions: Jingxian 5 and take the stairs to Office 202 on Floor 2
    # office_hours:
     #  - 'Monday 10:00 to 13:00'
