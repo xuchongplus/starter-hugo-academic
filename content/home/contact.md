@@ -25,7 +25,7 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: xucc712@foxmail.com; ccxu_ep@163.com
+  email: xucc0712@foxmail.com; ccxu_ep@163.com
   phone: 137 2088 0961
   address:
     street: 442 Siming South Road
